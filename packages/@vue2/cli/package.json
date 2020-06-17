@@ -1,0 +1,29 @@
+{
+  "name": "@vue2/cli",
+  "version": "1.0.0",
+  "description": "Command line interface for rapid Vue.js development",
+  "bin": {
+    "vue2": "bin/vue.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyuanquan/vue-cli-analysis.git",
+    "directory": "packages/@vue2/cli"
+  },
+  "keywords": [
+    "vue",
+    "cli"
+  ],
+  "author": "liuyuanquan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuyuanquan/vue-cli-analysis/issues"
+  },
+  "homepage": "https://github.com/liuyuanquan/vue-cli-analysis#readme",
+  "engines": {
+    "node": ">=8.9"
+  },
+  "dependencies": {
+    "commander": "^5.1.0"
+  }
+}
